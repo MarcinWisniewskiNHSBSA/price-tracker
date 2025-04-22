@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "url": "https://example.com/product/1",
+    "expectedPrice": 150.00,
+    "currentPrice": 200.00,
+    "message": "A new alert for Product 1 has been added. You will be notified when the current price £200.00 will drop to £150.00"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "url": "https://example.com/product/2",
+    "expectedPrice": 150.00,
+    "currentPrice": 100.00,
+    "message": "Your alert has not been created as the expected price £150.00 is higher or equal than the current price £100.00"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "url": "https://example.com/product/3",
+    "expectedPrice": 150.00,
+    "currentPrice": 300.00,
+    "message": "A new alert for Product 3 has been added. You will be notified when the current price £300.00 will drop to £150.00"
+  }
+]

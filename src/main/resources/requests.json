@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://example.com/product/1",
+    "frequency": "MORNING",
+    "expectedPrice": 150.00
+  },
+  {
+    "url": "https://example.com/product/2",
+    "frequency": "MORNING",
+    "expectedPrice": 150.00
+  },
+  {
+    "url": "https://example.com/product/3",
+    "frequency": "MORNING",
+    "expectedPrice": 150.00
+  }
+]
