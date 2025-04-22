@@ -35,7 +35,7 @@ mvn dependency:resolve
 ## Examples of API requests and their responses
 ### Sending a request through Postman to track a new price and schedule a new alert (first request example)
 
-![image](https://github.com/user-attachments/assets/c004bb53-b708-4f70-960e-31cf0b12220c)
+![image](https://github.com/user-attachments/assets/f2581a46-75b4-40ad-b45b-55b3bcbedc5c)
 
 - Open Postman
 - Add a new tab
